@@ -1,4 +1,4 @@
-# What's Insie This Level
+# What's Inside This Level
 
 Built on console it's a project that Simulates a small bank contains the main services That any bank offers each on different screens
 the project built using OOP principles and clean code and divded into 2-tiers 
